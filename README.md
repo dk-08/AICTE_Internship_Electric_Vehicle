@@ -2,7 +2,7 @@
 
 Electric vehicle range depends on multiple factors like the model, vehicle type, manufacturing year, and price.  
 This project uses these features to predict the **Electric Range** using a machine learning pipeline.
-
+## Dataset : https://www.kaggle.com/datasets/yashdogra/ev-bhebic-c
 ✅ Data Cleaning  
 ✅ Feature Engineering  
 ✅ One-Hot Encoding for Categorical Features  
@@ -49,5 +49,3 @@ A **Random Forest Regressor** is used because it performs well on mixed data typ
 - Random Forest Regressor  
 - OneHotEncoder  
 - Joblib (to save model)
-
-##Dataset : https://www.kaggle.com/datasets/yashdogra/ev-bhebic-c
